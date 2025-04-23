@@ -1,0 +1,44 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<collection>
+<organo id="0001">
+<brand>πινακας</brand>
+<title>μονα λιζα</title>
+<category>λεοναρντο ντα βιντσι</category>
+<price>1.000.000</price>
+<description>Just a description</description>
+</organo>
+<organo id="0002">
+<brand>πινακας</brand>
+<title>Η σχολη της αθηνας</title>
+<category>Ραφαηλ</category>
+<price>1.500.000</price>
+<description>Just a description</description>
+</organo>
+<organo id="0003">
+<brand>πινακας</brand>
+<title>Η αγια οικογενεια</title>
+<category>Ραφαηλ</category>
+<price>1.550.000</price>
+<description>Just a description</description>
+</organo>
+<organo id="0004">
+<brand>Η πινακας</brand>
+<title>Η κραυγη</title>
+<category>Εντβαρτ Μουνκ</category>
+<price>1.199.000</price>
+<description>Just a description</description>
+</organo>
+<organo id="0005">
+<brand>πινακσς</brand>
+<title>Η νυχτερινη φρουρα</title>
+<category>Ρεμπραντ</category>
+<price>1.350.000</price>
+<description>Just a description</description>
+</organo>
+<organo id="0006">
+<brand>πινακας</brand>
+<title>Η γεννηση της αφροδιτης</title>
+<category>Σαντρο μποτιτσελι</category>
+<price>358.000.000</price>
+<description>Just a description</description>
+</organo>
